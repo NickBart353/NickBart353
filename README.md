@@ -51,5 +51,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBart353&
 
 <br>
 <p align="center">
-  <img src="YOUR_FOOTER_IMAGE_URL_HERE" alt="Footer Divider" width="100%">
+  <img height="300px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTI1M293NzhsZXhjZmZvMmsxYml4ZGRicG52a3RpbGlwcXBoMzlncCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9lyuDkgZJ4OBO/giphy.gif" >
+  <img height="300px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDVieWs3ajJlNmVlZmMzdThlbTQ0bzljOWF2dThrazU5N3IxdzhpcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10fS0TJxfFRDLW/giphy.gif">
+  <img height="300px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGdjbG5yYzJid296bndnejFpMmdqMG96a2p2b3hsdGgwMmdicXpzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11O5c9EfmZTyyA/giphy.gif" alt="gif2">
 </p>
