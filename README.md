@@ -1,40 +1,55 @@
-# Hi there, I'm Nogg 👋
-
-### 💻 Web Developer by Profession | 🎮 Game Developer by Hobby
-
-I am a professional Web Developer. Outside of my 9-to-5, I transition into game development, exploring mechanics and logic through the Godot Engine.
-
----
-
-## 🛠 Tech Stack
-
-### Professional Web Development
-- **Backend:** Java (Quarkus) 
-- **Frontend:** TypeScript, Angular
-- **Tools:** e.g., Docker, PostgreSQL, Git
-
-### Hobbyist Game Development
-- **Engine:** Godot
-- **Scripting:** GDScript
-- **Focus:** e.g., 3D, Shader Programming, Procedural Generation
-
----
-
-## 🚀 Projects & Progress
-
 <p align="center">
-  <img src="" alt="gif" width="600px">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=dd22ff&text=Nicholas%20Bartlett&fontAlign=50&fontAlignY=62&fontColor=5511aa&stroke=222222&strokeWidth=2&textBg=false&descAlignY=50" alt="NickBart353 Header" width="100%">
 </p>
 
-- 🛠 Currently working on: **[Sword-n-Board]** (A 3D First Person Action RPG built with Godot)
-- 🎓 Learning: **Advanced Quarkus patterns / Godot 4.x features**
-- 🔭 Professional focus: **Scalable microservices / Reactive UI components**
+### Hi there, I'm Nick ヽ(・∀・)ﾉ
+
+### Web Developer by Profession | Game Developer by Hobby
 
 ---
+
+## Tech Stack
+
+### Web Development
+These are my core professional skills.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badges" />
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=Quarkus&logoColor=white" alt="Quarkus Badges" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badges" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badges" />
+</p>
+
+### Hobbyist Game Development
+Godot, my passion.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white" alt="Godot Badges" />
+  <img src="https://img.shields.io/badge/GDScript-333333?style=for-the-badge&logo=godot&logoColor=478CBF" alt="GDScript Badges" />
+</p>
+
+## Projects & Progress
+
+<p align="center">
+  <img src="" alt="Sword-n-Board 3D Gameplay Demo" width="700px" style="border: 2px solid #FF00FF; border-radius: 10px;">
+</p>
+
+- Currently working on: **Sword-n-Board** (A 3D First Person Action RPG built with Godot)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NickBart353&show_icons=true&theme=tokyonight" alt="Stats Card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBart353&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img 
+src="https://github-readme-stats.vercel.app/api?username=NickBart353&show_icons=true&theme=tokyonight"
+ alt="Stats Card" />
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBart353&layout=compact&theme=tokyonight"
+ alt="Top Langs" />
+</p>
+
+---
+
+<br>
+<p align="center">
+  <img src="YOUR_FOOTER_IMAGE_URL_HERE" alt="Footer Divider" width="100%">
 </p>
