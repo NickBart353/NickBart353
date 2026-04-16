@@ -37,7 +37,7 @@ Godot, my passion.
 
 - Currently working on: **Sword-n-Board** (A 3D First Person Action RPG built with Godot)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img 
