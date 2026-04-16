@@ -15,6 +15,7 @@ These are my core professional skills.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badges" />
+  <img src="https://img.shields.io/badge/JSF-ED8B55?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badges" />
   <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=Quarkus&logoColor=white" alt="Quarkus Badges" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badges" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badges" />
